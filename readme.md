@@ -30,3 +30,15 @@ of the small angle formula: angle in radians * baseline length.
 
 We will need to track the student, hence some form of
 login / authentication will be required.
+
+### Ideas for sensor device
+1. Most phones have accelerometers.
+1. Some have gyroscopes.
+1. Others have proximity sensors.
+
+The accelerometer can be used to determine angles / orientation.
+The gyroscope tells you the rotation rate. Rotation rate
+should be close to zero before measuring the angle.should
+
+If available the proximity sensor can be used as a touchless
+trigger to mark a data capture.
