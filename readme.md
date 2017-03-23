@@ -48,6 +48,9 @@ trigger to mark a data capture.
 
 ioTool from play store has a gateway and many extensions.
 
+## UI ideas.
+* here is a link for a tabbed-page layout. https://codepen.io/renatorib/pen/rlpfj
+
 ## Tools
 1. webdemo.balsamiq.com -- save mockups as .json
 1. storyboardthat.com -- limited free storyboarding.
