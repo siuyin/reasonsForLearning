@@ -20,6 +20,9 @@ a Microsoft account.
 The response text could be put through text-to-speech.
 Bluemix Watson as well as Microsoft offer such services.
 
+Consider using a stemming library like:
+[snowball](https://github.com/kljensen/snowball).
+
 
 ## Enrich
 Provide a lesson which caters for auditory, visual and
